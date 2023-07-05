@@ -1,0 +1,376 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Flamenco&family=Roboto+Mono:ital,wght@1,500&display=swap');
+.header {
+ color: #deeb4e;
+    alignment-baseline: text-after-edge;
+    background-color: #1C8DDF;
+   padding: 20px;
+  text-align: left;
+  font-family: 'Roboto Mono', monospace;
+   font-size: 50px;
+   
+    margin-top: 00px;
+    margin-bottom: 0px;
+    
+
+   
+}
+
+
+nav{
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(231, 228, 228, 1);
+}
+
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+ font-family:  'Flamenco',monospace;
+}
+
+li a:hover {
+  background-color: rgba(98, 134, 230, 0.46);
+}
+.input[type=text]{
+	float: right;
+  padding: 6px;
+  border: none;
+
+  margin-right: 91px;
+  font-size: 17px;
+    border-radius: 30px;
+        margin-top: -37px;
+  
+}
+
+body {
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+  
+}
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 4rem;
+  }
+}
+
+.footer
+{
+ background-color:#87d0e0;
+
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height:100px;
+    margin-top: 705px;
+ 
+
+ 
+}
+
+.rectangle
+{
+position: absolute;
+
+height: 704px;
+background-color: rgba(232 254 255);
+      margin-top: 151px;
+
+    margin-bottom: 0px;
+      top: 0px;
+    right: 0px;
+    left: 0px;
+}
+.Titre{
+       margin-left: 10px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 46px;
+}
+.buttonPrixAcceuil{
+    margin-left: 179px;
+    margin-top: 12px;
+    background-color: #38B2CD;
+    border-radius: 12%;
+    height: 33px;
+    width: 70px;
+}
+.buttonPrixAcceuil2{
+    margin-left: 608px;
+   margin-top: -92px;
+    background-color: #38B2CD;
+    border-radius: 12%;
+    height: 33px;
+    width: 70px;
+}
+.buttonPrixAcceuil3{
+    margin-left: 1033px;
+   margin-top: -92px;
+    background-color: #38B2CD;
+    border-radius: 12%;
+    height: 33px;
+    width: 70px;
+}
+.textAcceuil3{
+     text-align: center;
+    padding-left: 1010px;
+}
+
+.buttonhead{
+margin-left: 559px;
+    border-radius: 45px;
+    background-color: rgba(98, 134, 229, 0.46);
+    padding: 20px;
+    width: 100px;
+    height: 17px;
+    text-align: center;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+.column.side {
+  width: 25%;
+  padding-left: 80px;
+    padding-top: 30px;
+}
+
+
+
+
+.main{
+
+ margin: 0px;
+ padding-top: 0px;
+}
+
+.card{
+     width: 20%;
+     display: inline-block;
+     box-shadow: 2px 2px 20px black;
+     border-radius: 5px; 
+     margin: 2%;
+     
+    }
+
+.image img{
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+ }
+.textAcceuil{
+       text-align: center;
+    padding-left: 136px;
+}
+.imgNouveaute{
+   width: 100px;
+    height: 103px;
+    margin-left: 170px;
+    margin-top: 21px;
+}
+.imgNouveaute2{
+   width: 100px;
+    height: 103px;
+    margin-left: 320px;
+    margin-top: 21px;
+}
+.imgNouveaute3{
+   width: 100px;
+    height: 103px;
+    margin-left: 320px;
+    margin-top: 21px;
+}
+.textAcceuil2{
+       text-align: center;
+    padding-left: 602px;
+}
+
+.title{
+ 
+  text-align: center;
+  padding: 10px;
+  
+ }
+
+h1{
+  font-size: 20px;
+ }
+
+.des{
+  padding: 3px;
+  text-align: center;
+ 
+  padding-top: 10px;
+        border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+button{
+  margin-top: 40px;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding:10px;
+}
+button:hover{
+  background-color: black;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
+.nouveaute{
+    padding-top:250px;
+    text-align: center;
+      font-family: 'Roboto Mono', monospace;
+      font-size: 40px;
+   
+}
+
+.footerText{
+    text-align: center;
+         color: black;
+         
+         margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 50px;
+        
+}
+
+.img{
+       width: 39px;
+    height: 39px;
+
+  padding-left: 986px;
+ 
+}
+
+.BoxAge{
+    margin-top: 31px;
+    margin-left: 39px;
+        padding-left: 57px;
+    padding-right: 67px;
+}
+.BoxGenre{
+        margin-right: 0px;
+   margin-left: 130px;
+    padding-left: 57px;
+    padding-right: 67px;
+}
+.BoxType{
+       
+  padding-left: 57px;
+    padding-right: 67px;
+        margin-left: 89px;
+
+}
+.BoxNbJoueurs{
+    
+    margin-left: 88px;
+       padding-left: 57px;
+    padding-right: 67px;
+}
+.imgSearcch{
+    width: 50px;
+    height: 22px;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.TitreCompte{
+    padding-top: 39px;
+    text-align: left;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 38px;
+    margin-left: 86px;
+}
+.ButtonCompte{
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 80px;
+   padding-bottom: 16px;
+    padding-right: 29px;
+    padding-left: 30px;
+}
+.ButtonCompteCategorie{
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 80px;
+   padding-bottom: 16px;
+    padding-right: 29px;
+    padding-left: 30px;
+}
+
+.button1{
+    background-color: rgba(98, 134, 229, 0.46);
+}
+.button2{
+     background-color: rgba(98, 134, 229, 0.46);
+     
+}
+.blockCompte{
+        margin-top: 33px;
+
+}
+.buttonAccueil{
+   margin-left: 17px;
+    margin-top: 122px;
+    background-color: #38b2cd
+}
+.buttonAccueilCategorie1{
+   margin-left: 17px;
+    margin-top: 24px;
+    background-color: #DEEB4E;
+}
+.buttonAccueilCategorie2{
+   margin-left: 547px;
+    margin-top: 24px;
+    background-color: #DEEB4E;
+}
+.buttonAccueilCategorie3{
+   margin-left: 975px;
+    margin-top: 24px;
+    background-color: #DEEB4E;
+}
+
+.formstyle{
+    margin-top: 68px;
+    margin-left: 508px;
+}
+
+.inputForm{
+    
+    margin-right: 91px;
+    font-size: 17px;
+}
